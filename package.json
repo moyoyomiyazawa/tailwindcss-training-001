@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-training-001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": "git@github.com:moyoyomiyazawa/tailwindcss-training-001.git",
+  "author": "Yuya Kasai <moyoyomiyazawa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.2.4"
+  }
+}
