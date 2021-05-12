@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "repository": "git@github.com:moyoyomiyazawa/tailwindcss-training-001.git",
   "author": "Yuya Kasai <moyoyomiyazawa@gmail.com>",
